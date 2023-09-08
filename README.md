@@ -1,5 +1,6 @@
 Hi, I’m @Chloe-vd-Walt
-I’m interested in Mathematics and Computer Science
+I am a transwoman in a STEM field
+I’m interested in Mathematics
 I’m currently studying towards a Computer Science and Mathematics degree
 
 <!---
